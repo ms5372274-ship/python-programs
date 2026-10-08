@@ -614,7 +614,14 @@
 # Q15. What are the decision-making statements in Python?
 # Answer: The main decision-making statements are if, if-else, if-elif-else, and nested if.
 
+# Even and Odd Number in Python
 
+number = int(input("Enter a number: "))
+
+if number % 2 == 0:
+    print("The number is Even")
+else:
+    print("The number is Odd")
 
 	
 
