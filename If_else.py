@@ -616,16 +616,38 @@
 
 # Even and Odd Number in Python
 
-number = int(input("Enter a number: "))
+# number = int(input("Enter a number: "))
 
-if number % 2 == 0:
-    print("The number is Even")
-else:
-    print("The number is Odd")
+# if number % 2 == 0:
+#     print("The number is Even")
+# else:
+#     print("The number is Odd")
 
+
+# Positive and Negative Number in Python
+
+# number = int(input("Enter a number: "))
+
+# if number > 0:
+#     print("The number is Positive")
+# elif number < 0:
+#     print("The number is Negative")
+# else:
+#     print("The number is Zero")
 	
 
 
+# Find Largest Number in Python
+
+# a = int(input("Enter first number: "))
+# b = int(input("Enter second number: "))
+
+# if a > b:
+#     print("Largest number is:", a)
+# elif b > a:
+#     print("Largest number is:", b)
+# else:
+#     print("Both numbers are equal")
 
 
 
